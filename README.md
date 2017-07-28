@@ -6,17 +6,17 @@
 [![issues badge]][issues]
 [![contributors_badge]][contributors]
 
-[licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
-[stars badge]:https://img.shields.io/github/stars/ktaranov//AwesomeR.svg
-[forks badge]:https://img.shields.io/github/forks/ktaranov//AwesomeR.svg
-[issues badge]:https://img.shields.io/github/issues/ktaranov//AwesomeR.svg
-[contributors_badge]:https://img.shields.io/github/contributors/ktaranov//AwesomeR.svg
+[licence badge]:https:/img.shields.io/badge/license-MIT-blue.svg
+[stars badge]:https:/img.shields.io/github/stars/ktaranov/AwesomeR.svg
+[forks badge]:https:/img.shields.io/github/forks/ktaranov/AwesomeR.svg
+[issues badge]:https:/img.shields.io/github/issues/ktaranov/AwesomeR.svg
+[contributors_badge]:https:/img.shields.io/github/contributors/ktaranov/AwesomeR.svg
 
-[licence]:https://github.com/ktaranov//AwesomeR/blob/master/LICENSE
-[stars]:https://github.com/ktaranov//AwesomeR/stargazers
-[forks]:https://github.com/ktaranov//AwesomeR/network
-[issues]:https://github.com/ktaranov//AwesomeR/issues
-[contributors]:https://github.com/ktaranov//AwesomeR/graphs/contributors
+[licence]:https:/github.com/ktaranov/AwesomeR/blob/master/LICENSE
+[stars]:https:/github.com/ktaranov/AwesomeR/stargazers
+[forks]:https:/github.com/ktaranov/AwesomeR/network
+[issues]:https:/github.com/ktaranov/AwesomeR/issues
+[contributors]:https:/github.com/ktaranov/AwesomeR/graphs/contributors
 
 Awesome R resources, packages and FAQS
 
@@ -52,6 +52,19 @@ Best free and Open Source IDE for R: https://www.rstudio.com/products/RStudio/
 [RStudio 1.0.153 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.0.153-amd64.deb
 [RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.0.153-i686.rpm
 [RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.0.153-x86_64.rpm
+
+
+## Free Courses
+Russian
+ - [Основы программирования на R](https://stepik.org/course/Основы-программирования-на-R-497) (by Bioinformatics Institute)
+ - [Анализ данных в R](https://stepik.org/course/Анализ-данных-в-R-129) (by Bioinformatics Institute)
+ - [Анализ данных в R. Часть 2](https://stepik.org/course/Анализ-данных-в-R-Часть-2-724) (by Bioinformatics Institute)
+ - [Основы статистики](https://stepik.org/course/Основы-статистики-76/) (by Bioinformatics Institute)
+ - [Основы статистики. Часть 2](https://stepik.org/course/Основы-статистики-Часть-2-524) (by Bioinformatics Institute)
+ - [Основы статистики. Часть 3](https://stepik.org/course/Основы-статистики-Часть-3-2152/) (by Bioinformatics Institute)
+
+Coursera
+ - [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) (by Johns Hopkins University)
 
 
 ## R books
