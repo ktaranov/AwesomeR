@@ -6,17 +6,17 @@
 [![issues badge]][issues]
 [![contributors_badge]][contributors]
 
-[licence badge]:https:/img.shields.io/badge/license-MIT-blue.svg
-[stars badge]:https:/img.shields.io/github/stars/ktaranov/AwesomeR.svg
-[forks badge]:https:/img.shields.io/github/forks/ktaranov/AwesomeR.svg
-[issues badge]:https:/img.shields.io/github/issues/ktaranov/AwesomeR.svg
-[contributors_badge]:https:/img.shields.io/github/contributors/ktaranov/AwesomeR.svg
+[licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
+[stars badge]:https://img.shields.io/github/stars/ktaranov/AwesomeR.svg
+[forks badge]:https://img.shields.io/github/forks/ktaranov/AwesomeR.svg
+[issues badge]:https://img.shields.io/github/issues/ktaranov/AwesomeR.svg
+[contributors_badge]:https://img.shields.io/github/contributors/ktaranov/AwesomeR.svg
 
-[licence]:https:/github.com/ktaranov/AwesomeR/blob/master/LICENSE
-[stars]:https:/github.com/ktaranov/AwesomeR/stargazers
-[forks]:https:/github.com/ktaranov/AwesomeR/network
-[issues]:https:/github.com/ktaranov/AwesomeR/issues
-[contributors]:https:/github.com/ktaranov/AwesomeR/graphs/contributors
+[licence]:https://github.com/ktaranov/AwesomeR/blob/master/LICENSE
+[stars]:https://github.com/ktaranov/AwesomeR/stargazers
+[forks]:https://github.com/ktaranov/AwesomeR/network
+[issues]:https://github.com/ktaranov/AwesomeR/issues
+[contributors]:https://github.com/ktaranov/AwesomeR/graphs/contributors
 
 Awesome R resources, packages and FAQS
 
