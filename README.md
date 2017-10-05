@@ -66,6 +66,10 @@ Russian
 Coursera
  - [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) (by Johns Hopkins University)
 
+Other:
+ - [R-exercises](http://www.r-exercises.com/)
+ - [TRYR codeschool](http://tryr.codeschool.com/)
+ - [DataCamp](https://www.datacamp.com/)
 
 ## R books
  - [BookDown - Write HTML, PDF, ePub, and Kindle books with R Markdown](https://bookdown.org)
@@ -96,8 +100,14 @@ Coursera
  - [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
  - [The R Manuals](http://cran.r-project.org/manuals.html)
  - [Tidy Text Mining with R](http://tidytextmining.com) (by Julia Silge and David Robinson)
+ - [R Programming for Data Science](https://leanpub.com/rprogramming) (by Roger D. Peng)
 
 [*Back to top*](#header01)
+
+
+## Awesome R Articles
+ - [Running R scripts on Azure Function](https://github.com/thdeltei/azure-function-r)
+
 
 ## License
 [MIT](/License)
