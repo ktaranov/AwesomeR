@@ -24,12 +24,12 @@ Awesome R resources, packages and FAQS
 
 | Platform | Version | Distributive Link                           | Direct download link | Size, Mb | SHA-1                                    |
 |----------|---------|---------------------------------------------|----------------------|---------:|------------------------------------------|
-| MacOS    | 3.4.1   | https://cran.r-project.org/bin/macosx/      | [MacOS Link]         | 61       | 4138852c052a2056ce648d886b9b47d8a514b762 |
-| Linux    | 3.4.1   | https://cran.r-project.org/bin/linux/       |                      | 61       |                                          |
-| Windows  | 3.4.1   | https://cran.r-project.org/bin/windows/base/| [Windows Link]       | 74       | 25527cd39a30b500e45cb65d967c45572ea183b6 |
+| MacOS    | 3.4.2   | https://cran.r-project.org/bin/macosx/      | [MacOS Link]         | 61       | 4138852c052a2056ce648d886b9b47d8a514b762 |
+| Linux    | 3.4.2   | https://cran.r-project.org/bin/linux/       |                      | 61       |                                          |
+| Windows  | 3.4.2   | https://cran.r-project.org/bin/windows/base/| [Windows Link]       | 74       | 25527cd39a30b500e45cb65d967c45572ea183b6 |
 
-[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.4.1.pkg
-[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.4.1-win.exe
+[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.4.2.pkg
+[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.4.2-win.exe
 
 
 ## Rstudio
@@ -37,21 +37,21 @@ Best free and Open Source IDE for R: https://www.rstudio.com/products/RStudio/
 
 | Installers                                                       | Size    | Date       | MD5                              |
 |------------------------------------------------------------------|--------:|------------|----------------------------------|
-| [RStudio 1.0.153 - Windows Vista/7/8/10]                         | 81.9 MB | 2017-07-20 | b3b4bbc82865ab105c21cb70b17271b3 |
-| [RStudio 1.0.153 - Mac OS X 10.6+ (64-bit)]                      | 71.2 MB | 2017-07-20 | 8773610566b74ec3e1a88b2fdb10c8b5 |
-| [RStudio 1.0.153 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 85.5 MB | 2017-07-20 | 981be44f91fc07e5f69f52330da32659 |
-| [RStudio 1.0.153 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 91.7 MB | 2017-07-20 | 2d0769bea2bf6041511d6901a1cf69c3 |
-| [RStudio 1.0.153 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 61.9 MB | 2017-07-20 | d584cbab01041777a15d62cbef69a976 |
-| [RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 84.7 MB | 2017-07-20 | 8dfee96059b05a063c49b705eca0ceb4 |
-| [RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 85.7 MB | 2017-07-20 | 16c2c8334f961c65d9bfa8fb813ad7e7 |
+| [RStudio 1.1.423 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-02-07 | a2411be84794b61fd8e79e70e7c0f0b0 |
+| [RStudio 1.1.423 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-02-07 | 3e3e3db076b44f3c5276eb008614b4cf |
+| [RStudio 1.1.423 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-02-07 | 8515d8f5c78ac15b331bd9be0c1ea412 |
+| [RStudio 1.1.423 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-02-07 | f6e385c13ff7a1218891937f016e9383 |
+| [RStudio 1.1.423 - Ubuntu 16.04+/Debian 9+ (64-bit)]             |   65 MB | 2018-02-07 | 1b5599d9f19c0971e87a5bcbf77aa8bc |
+| [RStudio 1.1.423 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-02-07 | 27664d49e08deee206879d259fd10512 |
+| [RStudio 1.1.423 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 91.4 MB | 2018-02-07 | 8d3d8c49260539a590d8eeea555eab08 |
 
-[RStudio 1.0.153 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.0.153.exe
-[RStudio 1.0.153 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.0.153.dmg
-[RStudio 1.0.153 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.0.153-i386.deb
-[RStudio 1.0.153 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.0.153-amd64.deb
-[RStudio 1.0.153 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.0.153-amd64.deb
-[RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.0.153-i686.rpm
-[RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.0.153-x86_64.rpm
+[RStudio 1.0.153 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.423.exe
+[RStudio 1.0.153 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.423.dmg
+[RStudio 1.0.153 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.423-i386.deb
+[RStudio 1.0.153 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.423-amd64.deb
+[RStudio 1.0.153 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.423-amd64.deb
+[RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.423-i686.rpm
+[RStudio 1.0.153 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.423-x86_64.rpm
 
 
 ## Free Courses
@@ -101,6 +101,10 @@ Other:
  - [The R Manuals](http://cran.r-project.org/manuals.html)
  - [Tidy Text Mining with R](http://tidytextmining.com) (by Julia Silge and David Robinson)
  - [R Programming for Data Science](https://leanpub.com/rprogramming) (by Roger D. Peng)
+ - [Creating Effective Graphs with Microsoft R Open](https://github.com/nbrgraphs/mro) (by Naomi B. Robbins)
+ - [Data Mining Techniques, Third Edition, Chapter 19](https://www.jmp.com/en_us/offers/data-mining-techniques-book/thanks.html#formsuccess) (by Michael J.A. Berry)
+ - [Data Science Live Book](https://livebook.datascienceheroes.com/) (by Pablo Casas)
+ - [Статистическая среда R](http://herba.msu.ru/shipunov/software/r/r-ru.htm) (by Shipunov)
 
 [*Back to top*](#header01)
 
