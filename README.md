@@ -45,13 +45,13 @@ Best free and Open Source IDE for R: https://www.rstudio.com/products/RStudio/
 | [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-02-07 | 27664d49e08deee206879d259fd10512 |
 | [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 91.4 MB | 2018-02-07 | 8d3d8c49260539a590d8eeea555eab08 |
 
-[RStudio 1.0.442 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.442.exe
-[RStudio 1.0.442 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.442.dmg
-[RStudio 1.0.442 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.442-i386.deb
-[RStudio 1.0.442 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.442-amd64.deb
-[RStudio 1.0.442 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.442-amd64.deb
-[RStudio 1.0.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.442-i686.rpm
-[RStudio 1.0.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.442-x86_64.rpm
+[RStudio 1.1.442 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.442.exe
+[RStudio 1.1.442 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.442.dmg
+[RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.442-i386.deb
+[RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.442-amd64.deb
+[RStudio 1.1.442 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.442-amd64.deb
+[RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.442-i686.rpm
+[RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.442-x86_64.rpm
 
 
 ## Free Courses
