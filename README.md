@@ -37,13 +37,13 @@ Best free and Open Source IDE for R: https://www.rstudio.com/products/RStudio/
 
 | Installers                                                       | Size    | Date       | MD5                              |
 |------------------------------------------------------------------|--------:|------------|----------------------------------|
-| [RStudio 1.1.442 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-02-07 | a2411be84794b61fd8e79e70e7c0f0b0 |
-| [RStudio 1.1.442 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-02-07 | 3e3e3db076b44f3c5276eb008614b4cf |
-| [RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-02-07 | 8515d8f5c78ac15b331bd9be0c1ea412 |
-| [RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-02-07 | f6e385c13ff7a1218891937f016e9383 |
-| [RStudio 1.1.442 - Ubuntu 16.04+/Debian 9+ (64-bit)]             |   65 MB | 2018-02-07 | 1b5599d9f19c0971e87a5bcbf77aa8bc |
-| [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-02-07 | 27664d49e08deee206879d259fd10512 |
-| [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 91.4 MB | 2018-02-07 | 8d3d8c49260539a590d8eeea555eab08 |
+| [RStudio 1.1.442 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-03-12 | 25a6eb8ecae4fd71901c977dbcfb104b |
+| [RStudio 1.1.442 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-03-12 | 89613427803a1e516372075ec2e2d4b2 |
+| [RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-03-12 | 090fcb1fec90e3d621bc89e113c8dc28 |
+| [RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-03-12 | 2c0805a6a8f12b06c7e6b343692288fd |
+| [RStudio 1.1.442 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 65.1 MB | 2018-03-12 | c9eb172938b10626fbe4d65fa81c7175 |
+| [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-03-12 | 77ced16b9ca8d9c636d388b842a60e1c |
+| [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 90.6 MB | 2018-03-12 | 8e6435aa53fa0ea9878ef9c09b6419f4 |
 
 [RStudio 1.1.442 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.442.exe
 [RStudio 1.1.442 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.442.dmg
