@@ -24,9 +24,9 @@ Awesome R resources, packages and FAQS
 
 | Platform | Version | Distributive Link                           | Direct download link | Size, Mb | SHA-1                                    |
 |----------|---------|---------------------------------------------|----------------------|---------:|------------------------------------------|
-| MacOS    | 3.4.4  | https://cran.r-project.org/bin/macosx/      | [MacOS Link]          | 73       | c7ac4aa4993ccf22b87b94b8df6f86cf733a1ed5 |
-| Linux    | 3.4.4  | https://cran.r-project.org/bin/linux/       |                       | 73       |                                          |
-| Windows  | 3.4.4  | https://cran.r-project.org/bin/windows/base/| [Windows Link]        | 78       | 5fd44c8a6eb2e936614f844d00f29c1fc2f4a0f9 |
+| MacOS    | 3.5.0  | https://cran.r-project.org/bin/macosx/       | [MacOS Link]         | 74       | 6e90d38892bb366630ae30c223a898e8af84dff7 |
+| Linux    | 3.5.0  | https://cran.r-project.org/bin/linux/        |                      | 73       |                                          |
+| Windows  | 3.5.0  | https://cran.r-project.org/bin/windows/base/ | [Windows Link]       | 79       | 87cf0f72dcd91ff12627178e2438cb5a8d8a13c0 |
 
 [MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.4.4.pkg
 [Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.4.4-win.exe
@@ -37,21 +37,21 @@ Best free and Open Source IDE for R: https://www.rstudio.com/products/RStudio/
 
 | Installers                                                       | Size    | Date       | MD5                              |
 |------------------------------------------------------------------|--------:|------------|----------------------------------|
-| [RStudio 1.1.442 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-03-12 | 25a6eb8ecae4fd71901c977dbcfb104b |
-| [RStudio 1.1.442 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-03-12 | 89613427803a1e516372075ec2e2d4b2 |
-| [RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-03-12 | 090fcb1fec90e3d621bc89e113c8dc28 |
-| [RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-03-12 | 2c0805a6a8f12b06c7e6b343692288fd |
-| [RStudio 1.1.442 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 65.1 MB | 2018-03-12 | c9eb172938b10626fbe4d65fa81c7175 |
-| [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-03-12 | 77ced16b9ca8d9c636d388b842a60e1c |
-| [RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 90.6 MB | 2018-03-12 | 8e6435aa53fa0ea9878ef9c09b6419f4 |
+| [RStudio 1.1.447 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-04-18 | 359df07f279db25c99d0f91449b0fc33 |
+| [RStudio 1.1.447 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-04-18 | 13d679b7ec208bd31f22550c0cdd6c99 |
+| [RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-04-18 | 8186c1b10793a6ff3138cd16af3ea433 |
+| [RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-04-18 | ad9410a0c74eb68d4c34bd880fd103a6 |
+| [RStudio 1.1.447 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 64.1 MB | 2018-04-18 | 1eecbf2c80fb329a8a1bcb92a68e459e |
+| [RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-04-18 | aac10abbc88315ddd3bf2b25ce8d9814 |
+| [RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 90.6 MB | 2018-04-18 | 0dd507d4ece283a64b63f759dc9e4fad |
 
-[RStudio 1.1.442 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.442.exe
-[RStudio 1.1.442 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.442.dmg
-[RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.442-i386.deb
-[RStudio 1.1.442 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.442-amd64.deb
-[RStudio 1.1.442 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.442-amd64.deb
-[RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.442-i686.rpm
-[RStudio 1.1.442 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.442-x86_64.rpm
+[RStudio 1.1.447 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.447.exe
+[RStudio 1.1.447 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.447.dmg
+[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.447-i386.deb
+[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.447-amd64.deb
+[RStudio 1.1.447 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.447-amd64.deb
+[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.447-i686.rpm
+[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.447-x86_64.rpm
 
 
 ## Free Courses
@@ -111,6 +111,8 @@ Other:
 
 ## Awesome R Articles
  - [Running R scripts on Azure Function](https://github.com/thdeltei/azure-function-r)
+
+https://rstudio.github.io/reticulate/index.html
 
 
 ## License
