@@ -22,14 +22,14 @@ Awesome R resources, packages and FAQS
 
 ## Installing R
 
-| Platform | Version | Distributive Link                           | Direct download link | Size, Mb | SHA-1                                    |
-|----------|---------|---------------------------------------------|----------------------|---------:|------------------------------------------|
-| MacOS    | 3.5.0  | https://cran.r-project.org/bin/macosx/       | [MacOS Link]         | 74       | 6e90d38892bb366630ae30c223a898e8af84dff7 |
-| Linux    | 3.5.0  | https://cran.r-project.org/bin/linux/        |                      | 73       |                                          |
-| Windows  | 3.5.0  | https://cran.r-project.org/bin/windows/base/ | [Windows Link]       | 79       | 87cf0f72dcd91ff12627178e2438cb5a8d8a13c0 |
+| Platform | Version | Distributive Link                           | Direct download | Size, Mb | SHA-1                                    |
+|----------|---------|---------------------------------------------|-----------------|---------:|------------------------------------------|
+| MacOS    | 3.5.1  | https://cran.r-project.org/bin/macosx/       | [MacOS Link]    | 74       | 76c01bfa62a6896d5f4a4511e25d17276d149621  |
+| Linux    | 3.5.1  | https://cran.r-project.org/bin/linux/        |                 | 73       |                                          |
+| Windows  | 3.5.1  | https://cran.r-project.org/bin/windows/base/ | [Windows Link]  | 79       | 1c8111544dd9485522bea6e8e9d3ec90d1166e12 |
 
-[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.4.4.pkg
-[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.4.4-win.exe
+[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.5.1.pkg
+[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.5.1-win.exe
 
 
 ## Rstudio
@@ -106,13 +106,15 @@ Other:
  - [Data Science Live Book](https://livebook.datascienceheroes.com/) (by Pablo Casas)
  - [Статистическая среда R](http://herba.msu.ru/shipunov/software/r/r-ru.htm) (by Shipunov)
 
-[*Back to top*](#header01)
+**[⬆ back to top](#awesomer)**
 
 
 ## Awesome R Articles
  - [Running R scripts on Azure Function](https://github.com/thdeltei/azure-function-r)
 
-https://rstudio.github.io/reticulate/index.html
+
+## Awesome R Packages
+ - [R Interface to Python](https://rstudio.github.io/reticulate/index.html)
 
 
 ## License
