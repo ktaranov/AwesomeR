@@ -105,6 +105,7 @@ Other:
  - [Data Mining Techniques, Third Edition, Chapter 19](https://www.jmp.com/en_us/offers/data-mining-techniques-book/thanks.html#formsuccess) (by Michael J.A. Berry)
  - [Data Science Live Book](https://livebook.datascienceheroes.com/) (by Pablo Casas)
  - [Статистическая среда R](http://herba.msu.ru/shipunov/software/r/r-ru.htm) (by Shipunov)
+ - [R Packages: Organize, Test, Document, and Share Your Code](http://r-pkgs.had.co.nz/) (by Hadley Wickham)
 
 **[⬆ back to top](#awesomer)**
 
