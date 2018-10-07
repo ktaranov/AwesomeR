@@ -35,6 +35,23 @@ Awesome R resources, packages and FAQS
 ## Rstudio
 Best free and Open Source IDE for R: https://www.rstudio.com/products/RStudio/
 
+Alternatives:
+ - [R kernel for Jupyter Notebook](https://irkernel.github.io)
+ - [Architect - IDE for Data Science](https://www.getarchitect.io)
+ - [R-Brain - Next Generation Data Science Cloud Platform](https://r-brain.io/en/)
+ - [Exploratory - Cloud Platform](https://exploratory.io)
+ - [Displayr - data science, visualization, and reporting platform for everyone](https://www.displayr.com)
+ - [Rattle: A Graphical User Interface for Data Mining using R](https://rattle.togaware.com)
+ - [RKWard - full featured IDE for R](https://rkward.kde.org)
+ - [R AnalyticFlow - utilizes the R environment for statistical computing](http://r.analyticflow.com/en/)
+ - [RTools for Visual Studio](https://docs.microsoft.com/en-us/visualstudio/rtvs/?view=vs-2017)
+ - [MLstudio - is an interactive platform for data visualization, statistical modeling and machine learning applications](https://github.com/RamiKrispin/MLstudio)
+ - [StatET -  Eclipse based IDE for R]()
+ - [Tinn-R - editor/word processor ASCII/UNICODE generic for the Windows operating system](https://sourceforge.net/projects/tinn-r/)
+ - [IDEA R plugin](https://plugins.jetbrains.com/plugin/6632-r-language-support)
+ - [Nvim-R - Vim plugin to work with R](https://github.com/jalvesaq/Nvim-R)
+ - [Rbox - an integrated R package for ATOM Editor](https://atom.io/packages/rbox)
+
 | Installers                                                       | Size    | Date       | MD5                              |
 |------------------------------------------------------------------|--------:|------------|----------------------------------|
 | [RStudio 1.1.447 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-04-18 | 359df07f279db25c99d0f91449b0fc33 |
