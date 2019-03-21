@@ -19,17 +19,18 @@
 [contributors]:https://github.com/ktaranov/AwesomeR/graphs/contributors
 
 Awesome R resources, packages and FAQS
-
+ 
 ## Installing R
 
-| Platform | Version | Distributive Link                           | Direct download | Size, Mb | SHA-1                                    |
-|----------|---------|---------------------------------------------|-----------------|---------:|------------------------------------------|
-| MacOS    | 3.5.1  | https://cran.r-project.org/bin/macosx/       | [MacOS Link]    | 74       | 76c01bfa62a6896d5f4a4511e25d17276d149621  |
-| Linux    | 3.5.1  | https://cran.r-project.org/bin/linux/        |                 | 73       |                                          |
-| Windows  | 3.5.1  | https://cran.r-project.org/bin/windows/base/ | [Windows Link]  | 79       | 1c8111544dd9485522bea6e8e9d3ec90d1166e12 |
+| Platform | Version | Distributive Link                            | Direct download | Size, Mb | SHA-1                                    |
+|----------|---------|----------------------------------------------|-----------------|---------:|------------------------------------------|
+| MacOS    | 3.5.3   | https://cran.r-project.org/bin/macosx/       | [MacOS Link]    | 74       | 01761070a53f7072e61784b5a735a22a91b2029e |
+| Linux    | 3.5.3   | https://cran.r-project.org/bin/linux/        |                 | 73       |                                          |
+| Windows  | 3.5.3   | https://cran.r-project.org/bin/windows/base/ | [Windows Link]  | 79       | 9bbcfa122173f0c1070f3b3805323e81d8cbaa7b |
+ |
 
-[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.5.1.pkg
-[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.5.1-win.exe
+[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.5.3.pkg
+[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.5.3-win.exe
 
 
 ## Rstudio
@@ -54,21 +55,21 @@ Alternatives:
 
 | Installers                                                       | Size    | Date       | MD5                              |
 |------------------------------------------------------------------|--------:|------------|----------------------------------|
-| [RStudio 1.1.447 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-04-18 | 359df07f279db25c99d0f91449b0fc33 |
-| [RStudio 1.1.447 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-04-18 | 13d679b7ec208bd31f22550c0cdd6c99 |
-| [RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-04-18 | 8186c1b10793a6ff3138cd16af3ea433 |
-| [RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-04-18 | ad9410a0c74eb68d4c34bd880fd103a6 |
-| [RStudio 1.1.447 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 64.1 MB | 2018-04-18 | 1eecbf2c80fb329a8a1bcb92a68e459e |
-| [RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-04-18 | aac10abbc88315ddd3bf2b25ce8d9814 |
-| [RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 90.6 MB | 2018-04-18 | 0dd507d4ece283a64b63f759dc9e4fad |
+| [RStudio 1.1.463 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-10-29 | 58b3d796d8cf96fb8580c62f46ab64d4 |
+| [RStudio 1.1.463 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-10-29 | a79032ba4d7daaa86a8da01948278d94 |
+| [RStudio 1.1.463 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-10-29 | 8a6755fa9fae2bafce289df3358aaf63 |
+| [RStudio 1.1.463 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-10-29 | bc50d6bd34926c1cc3ae4a209d67d649 |
+| [RStudio 1.1.463 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 65.0 MB | 2018-10-29 | cfd659db18619cc78d1592fefaa7c753 |
+| [RStudio 1.1.463 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-10-29 | 742f0bad60dfeaa3281576e14ad6699e |
+| [RStudio 1.1.463 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 90.6 MB | 2018-10-29 | c7303067a0ca99deea7e427b856952d1 |
 
-[RStudio 1.1.447 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.447.exe
-[RStudio 1.1.447 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.447.dmg
-[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.447-i386.deb
-[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.447-amd64.deb
-[RStudio 1.1.447 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.447-amd64.deb
-[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.447-i686.rpm
-[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.447-x86_64.rpm
+[RStudio 1.1.447 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.463.exe
+[RStudio 1.1.447 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.463.dmg
+[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.463-i386.deb
+[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.463-amd64.deb
+[RStudio 1.1.447 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.463-amd64.deb
+[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.463-i686.rpm
+[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.463-x86_64.rpm
 
 
 ## Free Courses
