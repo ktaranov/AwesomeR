@@ -137,4 +137,4 @@ Other:
 
 
 ## License
-[MIT](/License)
+[MIT](/LICENSE)
