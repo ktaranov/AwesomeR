@@ -92,9 +92,11 @@ packages <- getPackages(
     "tidyr",
     "tidyselect",
     "utf8",
+    "udunits2",
     "viridis",
     "viridisLite",
     "withr",
+    "xml",
     "xtable",
     "yaml",
     "zip"
