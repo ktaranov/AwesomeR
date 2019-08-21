@@ -1,5 +1,4 @@
 # AwesomeR
-<a name="header01"></a>
 [![licence badge]][licence]
 [![stars badge]][stars]
 [![forks badge]][forks]
@@ -18,7 +17,8 @@
 [issues]:https://github.com/ktaranov/AwesomeR/issues
 [contributors]:https://github.com/ktaranov/AwesomeR/graphs/contributors
 
-Awesome R resources, packages and FAQS
+Awesome R resources, packages and FAQs
+ 
  
 ## Installing R
 
@@ -31,6 +31,8 @@ Awesome R resources, packages and FAQS
 
 [MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.6.1.pkg
 [Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.6.1-win.exe
+
+**[⬆ back to top](#awesomer)**
 
 
 ## Rstudio
@@ -74,6 +76,10 @@ Alternatives:
 [RStudio 1.2.1335 - Debian 9 (64-bit)]:https://download1.rstudio.org/desktop/debian9/x86_64/rstudio-1.2.1335-amd64.deb
 [RStudio 1.2.1335 - OpenSUSE 15 (64-bit)]:https://download1.rstudio.org/desktop/opensuse15/x86_64/rstudio-1.2.1335-x86_64.rpm
 [RStudio 1.2.1335 - SLES/OpenSUSE 12 (64-bit)]:https://download1.rstudio.org/desktop/opensuse/x86_64/rstudio-1.2.1335-x86_64.rpm
+
+**[⬆ back to top](#awesomer)**
+
+
 ## Free Courses
 Russian
  - [Основы программирования на R](https://stepik.org/course/Основы-программирования-на-R-497) (by Bioinformatics Institute)
@@ -90,6 +96,9 @@ Other:
  - [R-exercises](http://www.r-exercises.com/)
  - [TRYR codeschool](http://tryr.codeschool.com/)
  - [DataCamp](https://www.datacamp.com/)
+
+**[⬆ back to top](#awesomer)**
+
 
 ## R books
  - [BookDown - Write HTML, PDF, ePub, and Kindle books with R Markdown](https://bookdown.org)
@@ -140,3 +149,5 @@ Other:
 
 ## License
 [MIT](/LICENSE)
+
+**[⬆ back to top](#awesomer)**
