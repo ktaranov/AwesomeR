@@ -27,7 +27,7 @@ Awesome R resources, packages and FAQs
 | MacOS    | 3.6.1   | https://cran.r-project.org/bin/macosx/       | [MacOS Link]    | 76       | 4e932f8e5013870d2a9179b54eaee277f41657b0 |
 | Linux    | 3.6.1   | https://cran.r-project.org/bin/linux/        |                 |          |                                          |
 | Windows  | 3.6.1   | https://cran.r-project.org/bin/windows/base/ | [Windows Link]  | 81       | df4ad3c36e193423ebf2d698186feded15777da1 |
- |
+
 
 [MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.6.1.pkg
 [Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.6.1-win.exe
@@ -141,10 +141,14 @@ Other:
 
 ## Awesome R Articles
  - [Running R scripts on Azure Function](https://github.com/thdeltei/azure-function-r)
+ 
+ **[⬆ back to top](#awesomer)**
 
 
 ## Awesome R Packages
  - [R Interface to Python](https://rstudio.github.io/reticulate/index.html)
+ 
+ **[⬆ back to top](#awesomer)**
 
 
 ## License
