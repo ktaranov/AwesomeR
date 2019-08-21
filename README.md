@@ -24,13 +24,13 @@ Awesome R resources, packages and FAQS
 
 | Platform | Version | Distributive Link                            | Direct download | Size, Mb | SHA-1                                    |
 |----------|---------|----------------------------------------------|-----------------|---------:|------------------------------------------|
-| MacOS    | 3.5.3   | https://cran.r-project.org/bin/macosx/       | [MacOS Link]    | 74       | 01761070a53f7072e61784b5a735a22a91b2029e |
-| Linux    | 3.5.3   | https://cran.r-project.org/bin/linux/        |                 | 73       |                                          |
-| Windows  | 3.5.3   | https://cran.r-project.org/bin/windows/base/ | [Windows Link]  | 79       | 9bbcfa122173f0c1070f3b3805323e81d8cbaa7b |
+| MacOS    | 3.6.1   | https://cran.r-project.org/bin/macosx/       | [MacOS Link]    | 76       | 4e932f8e5013870d2a9179b54eaee277f41657b0 |
+| Linux    | 3.6.1   | https://cran.r-project.org/bin/linux/        |                 |          |                                          |
+| Windows  | 3.6.1   | https://cran.r-project.org/bin/windows/base/ | [Windows Link]  | 81       | df4ad3c36e193423ebf2d698186feded15777da1 |
  |
 
-[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.5.3.pkg
-[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.5.3-win.exe
+[MacOS Link]:https://cran.r-project.org/bin/macosx/R-3.6.1.pkg
+[Windows Link]:https://cran.r-project.org/bin/windows/base/R-3.6.1-win.exe
 
 
 ## Rstudio
@@ -53,25 +53,27 @@ Alternatives:
  - [Nvim-R - Vim plugin to work with R](https://github.com/jalvesaq/Nvim-R)
  - [Rbox - an integrated R package for ATOM Editor](https://atom.io/packages/rbox)
 
-| Installers                                                       | Size    | Date       | MD5                              |
-|------------------------------------------------------------------|--------:|------------|----------------------------------|
-| [RStudio 1.1.463 - Windows Vista/7/8/10]                         | 85.8 MB | 2018-10-29 | 58b3d796d8cf96fb8580c62f46ab64d4 |
-| [RStudio 1.1.463 - Mac OS X 10.6+ (64-bit)]                      | 74.5 MB | 2018-10-29 | a79032ba4d7daaa86a8da01948278d94 |
-| [RStudio 1.1.463 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]         | 89.3 MB | 2018-10-29 | 8a6755fa9fae2bafce289df3358aaf63 |
-| [RStudio 1.1.463 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]         | 97.4 MB | 2018-10-29 | bc50d6bd34926c1cc3ae4a209d67d649 |
-| [RStudio 1.1.463 - Ubuntu 16.04+/Debian 9+ (64-bit)]             | 65.0 MB | 2018-10-29 | cfd659db18619cc78d1592fefaa7c753 |
-| [RStudio 1.1.463 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)] | 88.1 MB | 2018-10-29 | 742f0bad60dfeaa3281576e14ad6699e |
-| [RStudio 1.1.463 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)] | 90.6 MB | 2018-10-29 | c7303067a0ca99deea7e427b856952d1 |
+| Installers                                        | Size     | Date       | MD5                              |
+|---------------------------------------------------|---------:|------------|----------------------------------|
+| [RStudio 1.2.1335 - Windows 7+ (64-bit)]          | 126.9 MB | 2019-04-08 | d0e2470f1f8ef4cd35a669aa323a2136 |
+| [RStudio 1.2.1335 - macOS 10.12+ (64-bit)]        | 121.1 MB | 2019-04-08 | 6c570b0e2144583f7c48c284ce299eef |
+| [RStudio 1.2.1335 - Ubuntu 14/Debian 8 (64-bit)]  |  92.2 MB | 2019-04-08 | c1b07d0511469abfe582919b183eee83 |
+| [RStudio 1.2.1335 - Ubuntu 16 (64-bit)]           |  99.3 MB | 2019-04-08 | c142d69c210257fb10d18c045fff13c7 |
+| [RStudio 1.2.1335 - Ubuntu 18/Debian 10 (64-bit)] | 100.4 MB | 2019-04-08 | 71a8d1990c0d97939804b46cfb0aea75 |
+| [RStudio 1.2.1335 - Fedora 19/RedHat 7 (64-bit)]  | 114.1 MB | 2019-04-08 | 296b6ef88969a91297fab6545f256a7a |
+| [RStudio 1.2.1335 - Debian 9 (64-bit)]            | 100.6 MB | 2019-04-08 | 1e32d4d6f6e216f086a81ca82ef65a91 |
+| [RStudio 1.2.1335 - OpenSUSE 15 (64-bit)]         | 101.6 MB | 2019-04-08 | 2795a63c7efd8e2aa2dae86ba09a81e5 |
+| [RStudio 1.2.1335 - SLES/OpenSUSE 12 (64-bit)]    |  94.4 MB | 2019-04-08 | c65424b06ef6737279d982db9eefcae1 |
 
-[RStudio 1.1.447 - Windows Vista/7/8/10]:https://download1.rstudio.org/RStudio-1.1.463.exe
-[RStudio 1.1.447 - Mac OS X 10.6+ (64-bit)]:https://download1.rstudio.org/RStudio-1.1.463.dmg
-[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (32-bit)]:https://download1.rstudio.org/rstudio-1.1.463-i386.deb
-[RStudio 1.1.447 - Ubuntu 12.04-15.10/Debian 8 (64-bit)]:https://download1.rstudio.org/rstudio-1.1.463-amd64.deb
-[RStudio 1.1.447 - Ubuntu 16.04+/Debian 9+ (64-bit)]:https://download1.rstudio.org/rstudio-xenial-1.1.463-amd64.deb
-[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (32-bit)]:https://download1.rstudio.org/rstudio-1.1.463-i686.rpm
-[RStudio 1.1.447 - Fedora 19+/RedHat 7+/openSUSE 13.1+ (64-bit)]:https://download1.rstudio.org/rstudio-1.1.463-x86_64.rpm
-
-
+[RStudio 1.2.1335 - Windows 7+ (64-bit)]:https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe
+[RStudio 1.2.1335 - macOS 10.12+ (64-bit)]:https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg
+[RStudio 1.2.1335 - Ubuntu 14/Debian 8 (64-bit)]:https://download1.rstudio.org/desktop/trusty/amd64/rstudio-1.2.1335-amd64.deb
+[RStudio 1.2.1335 - Ubuntu 16 (64-bit)]:https://download1.rstudio.org/desktop/xenial/amd64/rstudio-1.2.1335-amd64.deb
+[RStudio 1.2.1335 - Ubuntu 18/Debian 10 (64-bit)]:https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1335-amd64.deb
+[RStudio 1.2.1335 - Fedora 19/RedHat 7 (64-bit)]:https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm
+[RStudio 1.2.1335 - Debian 9 (64-bit)]:https://download1.rstudio.org/desktop/debian9/x86_64/rstudio-1.2.1335-amd64.deb
+[RStudio 1.2.1335 - OpenSUSE 15 (64-bit)]:https://download1.rstudio.org/desktop/opensuse15/x86_64/rstudio-1.2.1335-x86_64.rpm
+[RStudio 1.2.1335 - SLES/OpenSUSE 12 (64-bit)]:https://download1.rstudio.org/desktop/opensuse/x86_64/rstudio-1.2.1335-x86_64.rpm
 ## Free Courses
 Russian
  - [Основы программирования на R](https://stepik.org/course/Основы-программирования-на-R-497) (by Bioinformatics Institute)
