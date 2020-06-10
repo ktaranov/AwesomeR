@@ -1,5 +1,5 @@
 #' Compare two directories with files by file names.
-#' 
+#'
 #' @param path1 A string.
 #' @param path2 A string.
 #' @param pattern1 A string.
